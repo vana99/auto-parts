@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/auto-parts/static/css/main.03d3520e.css",
+    "main.js": "/auto-parts/static/js/main.3681cf98.js",
+    "static/media/background.webp": "/auto-parts/static/media/background.13f1016dbce61a3f7452.webp",
+    "index.html": "/auto-parts/index.html",
+    "main.03d3520e.css.map": "/auto-parts/static/css/main.03d3520e.css.map",
+    "main.3681cf98.js.map": "/auto-parts/static/js/main.3681cf98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03d3520e.css",
+    "static/js/main.3681cf98.js"
+  ]
+}
